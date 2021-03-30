@@ -29,6 +29,14 @@ draft: false
 	</div>
 </div>
 
+<div class="team-member">
+	<img src="../media/Janek.png" class="member-image">
+	<div class="member-description">
+		<p class="member-name">Adel Sefiane</p>
+		<p class="member-role">Hardware, Arm Guy</p>
+	</div>
+</div>
+
 ## Team Management
 
 Our team was split into two sub-teams, software and hardware. The hardware team was responsible for the physical design of the robot and testing the chosen parts remotely with help of the technicians.
