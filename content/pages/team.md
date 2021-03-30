@@ -32,8 +32,8 @@ draft: false
 <div class="team-member">
 	<img src="../media/Janek.png" class="member-image">
 	<div class="member-description">
-		<p class="member-name">Adel Sefiane</p>
-		<p class="member-role">Hardware, Arm Guy</p>
+		<p class="member-name">Janek Smialek</p>
+		<p class="member-role">Software Team member, Navigation </p>
 	</div>
 </div>
 
